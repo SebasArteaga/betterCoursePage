@@ -70,7 +70,7 @@ const Header = () => {
                     color: '#fff',
                 }}
                 >
-                    COMPILACIÓN gratuita de cursos para aprender nuevas tecnologías y lenguajes de programación
+                    RECOPILACIÓN gratuita de cursos para aprender nuevas tecnologías y lenguajes de programación
                 </Typography>
 
                 <Box>
